@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": ".\\.img_venv\\Scripts\\python.exe",
+  "editor.formatOnSave": true,
+  "python.analysis.typeCheckingMode": "basic"
+}
